@@ -1,6 +1,6 @@
 # Hi there 👋.
 I'm Johnbosco, a software developer based in Nigeria. I enjoy working as freelancer which makes me enjoy my time more. I love combining my hobbies cycling, coding and building various projects with Nextjs and other tools. You can find me on Twitter @JohnboscoOkolo. Feel free to tweet me any time.
-
+<br />
 
 # My toolbox 🧰
 <img height="34px" align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -18,7 +18,6 @@ I'm Johnbosco, a software developer based in Nigeria. I enjoy working as freelan
 <img height="34px" align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img height="34px" align="left" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 <img height="34px"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-
  
 # Stats 📊
 
