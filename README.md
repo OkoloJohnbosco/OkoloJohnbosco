@@ -20,10 +20,12 @@ I'm Johnbosco, a software developer based in Nigeria. I enjoy working as freelan
  
 # Stats 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=OkoloJohnbosco&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloJohnbosco&layout=compact&langs_count=8" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=OkoloJohnbosco&show_icons=true&theme=dracula" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloJohnbosco&layout=compact" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OkoloJohnbosco&theme=dracula)](https://git.io/streak-stats)
+### 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OkoloJohnbosco&theme=dracula" />
 <!--
 
 Here are some ideas to get you started:
