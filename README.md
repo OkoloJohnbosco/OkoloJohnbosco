@@ -22,7 +22,7 @@ I'm Johnbosco, a software developer based in Nigeria. I enjoy working as freelan
 # Stats 📊
 
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=OkoloJohnbosco&show_icons=true&theme=dracula" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloJohnbosco&layout=compact&langs_count=4" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloJohnbosco&layout=compact&langs_count=6" />
 
 ### 
 
